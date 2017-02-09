@@ -1,0 +1,4 @@
+(move davis_theater cbs)
+(move davis_theater jones_theater)
+(move psychology_bldg jones_theater)
+(move jones_theater library)

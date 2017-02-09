@@ -1,0 +1,4 @@
+(occur_move hayman_theater bookmark_cafe)
+(occur_move bookmark_cafe library)
+(occur_move angazi_cafe library)
+(occur_move cbs hayman_theater)

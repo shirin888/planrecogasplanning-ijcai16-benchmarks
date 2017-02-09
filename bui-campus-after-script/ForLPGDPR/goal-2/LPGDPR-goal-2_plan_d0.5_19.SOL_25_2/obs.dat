@@ -1,0 +1,4 @@
+(move jones_theater psychology_bldg)
+(move psychology_bldg bookmark_cafe)
+(move psychology_bldg library)
+(move psychology_bldg jones_theater)

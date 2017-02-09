@@ -1,0 +1,5 @@
+(move davis_theater cbs)
+(move angazi_cafe watson_theater)
+(move hayman_theater bookmark_cafe)
+(move bookmark_cafe hayman_theater)
+(move cbs jones_theater)

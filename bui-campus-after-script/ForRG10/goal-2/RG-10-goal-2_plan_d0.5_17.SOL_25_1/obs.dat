@@ -1,0 +1,4 @@
+(move bank psychology_bldg)
+(move psychology_bldg cbs)
+(move psychology_bldg watson_theater)
+(move hayman_theater bookmark_cafe)

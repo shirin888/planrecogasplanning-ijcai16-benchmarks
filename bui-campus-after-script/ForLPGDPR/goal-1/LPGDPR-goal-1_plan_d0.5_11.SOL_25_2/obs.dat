@@ -1,0 +1,4 @@
+(move hayman_theater bookmark_cafe)
+(move bookmark_cafe library)
+(move angazi_cafe library)
+(move cbs hayman_theater)

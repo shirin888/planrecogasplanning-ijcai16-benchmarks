@@ -1,0 +1,4 @@
+(move watson_theater library)
+(move hayman_theater cbs)
+(move jones_theater hayman_theater)
+(move psychology_bldg bank)

@@ -1,0 +1,7 @@
+(move davis_theater bank)
+(move bank watson_theater)
+(move watson_theater tav)
+(move tav hayman_theater)
+(move hayman_theater library)
+(move library angazi_cafe)
+(move library cbs)

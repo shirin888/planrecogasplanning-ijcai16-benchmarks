@@ -1,0 +1,6 @@
+(move bank hayman_theater)
+(move hayman_theater cbs)
+(move cbs bank)
+(move bank davis_theater)
+(move jones_theater watson_theater)
+(move watson_theater cbs)

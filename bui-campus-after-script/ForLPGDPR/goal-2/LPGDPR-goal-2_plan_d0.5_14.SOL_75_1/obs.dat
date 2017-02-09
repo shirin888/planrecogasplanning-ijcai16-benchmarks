@@ -1,0 +1,7 @@
+(move davis_theater bank)
+(move bank psychology_bldg)
+(move psychology_bldg jones_theater)
+(move davis_theater bookmark_cafe)
+(move bookmark_cafe jones_theater)
+(move jones_theater psychology_bldg)
+(move cbs watson_theater)

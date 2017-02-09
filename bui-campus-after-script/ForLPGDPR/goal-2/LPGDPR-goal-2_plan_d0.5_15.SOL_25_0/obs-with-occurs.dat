@@ -1,0 +1,3 @@
+(occur_move davis_theater jones_theater)
+(occur_move jones_theater library)
+(occur_move psychology_bldg bookmark_cafe)

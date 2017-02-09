@@ -1,0 +1,4 @@
+(move hayman_theater jones_theater)
+(move jones_theater cbs)
+(move hayman_theater tav)
+(move psychology_bldg hayman_theater)

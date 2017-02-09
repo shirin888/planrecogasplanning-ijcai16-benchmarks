@@ -1,0 +1,4 @@
+(occur_move tav bank)
+(occur_move cbs psychology_bldg)
+(occur_move psychology_bldg davis_theater)
+(occur_move jones_theater psychology_bldg)

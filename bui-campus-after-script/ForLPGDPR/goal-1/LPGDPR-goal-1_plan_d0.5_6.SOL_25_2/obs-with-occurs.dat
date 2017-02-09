@@ -1,0 +1,4 @@
+(occur_move bank library)
+(occur_move hayman_theater tav)
+(occur_move tav bookmark_cafe)
+(occur_move jones_theater jones_theater)

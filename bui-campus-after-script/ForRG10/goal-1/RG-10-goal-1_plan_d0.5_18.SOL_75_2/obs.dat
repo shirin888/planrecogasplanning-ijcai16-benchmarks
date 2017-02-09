@@ -1,0 +1,7 @@
+(move davis_theater psychology_bldg)
+(move psychology_bldg watson_theater)
+(move watson_theater bookmark_cafe)
+(move hayman_theater bookmark_cafe)
+(move bookmark_cafe tav)
+(move tav bookmark_cafe)
+(move davis_theater bookmark_cafe)

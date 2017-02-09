@@ -1,0 +1,8 @@
+(occur_move davis_theater watson_theater)
+(occur_move watson_theater tav)
+(occur_move tav cbs)
+(occur_move cbs watson_theater)
+(occur_move watson_theater hayman_theater)
+(occur_move hayman_theater tav)
+(occur_move jones_theater jones_theater)
+(occur_move watson_theater davis_theater)

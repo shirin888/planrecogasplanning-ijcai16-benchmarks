@@ -1,0 +1,4 @@
+(move davis_theater watson_theater)
+(move watson_theater hayman_theater)
+(move hayman_theater tav)
+(move hayman_theater jones_theater)

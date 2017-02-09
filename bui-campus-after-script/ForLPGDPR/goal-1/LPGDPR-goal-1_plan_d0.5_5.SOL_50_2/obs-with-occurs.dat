@@ -1,0 +1,6 @@
+(occur_move watson_theater library)
+(occur_move tav hayman_theater)
+(occur_move hayman_theater cbs)
+(occur_move cbs angazi_cafe)
+(occur_move angazi_cafe library)
+(occur_move bank davis_theater)

@@ -1,0 +1,5 @@
+(move bank psychology_bldg)
+(move psychology_bldg cbs)
+(move davis_theater jones_theater)
+(move jones_theater psychology_bldg)
+(move tav jones_theater)

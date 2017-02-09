@@ -1,0 +1,4 @@
+(occur_move bank cbs)
+(occur_move davis_theater jones_theater)
+(occur_move jones_theater angazi_cafe)
+(occur_move angazi_cafe bookmark_cafe)

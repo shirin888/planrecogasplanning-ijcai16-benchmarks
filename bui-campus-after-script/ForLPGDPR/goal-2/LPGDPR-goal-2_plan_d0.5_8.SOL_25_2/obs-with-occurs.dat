@@ -1,0 +1,4 @@
+(occur_move davis_theater cbs)
+(occur_move davis_theater jones_theater)
+(occur_move psychology_bldg jones_theater)
+(occur_move jones_theater library)

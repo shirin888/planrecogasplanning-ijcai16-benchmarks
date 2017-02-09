@@ -1,0 +1,5 @@
+(move angazi_cafe watson_theater)
+(move watson_theater library)
+(move library tav)
+(move cbs angazi_cafe)
+(move psychology_bldg library)

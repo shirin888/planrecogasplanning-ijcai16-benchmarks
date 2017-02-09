@@ -1,0 +1,4 @@
+(occur_move bank library)
+(occur_move library watson_theater)
+(occur_move psychology_bldg angazi_cafe)
+(occur_move library bank)

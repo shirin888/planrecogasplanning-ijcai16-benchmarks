@@ -1,0 +1,4 @@
+(move bank psychology_bldg)
+(move jones_theater psychology_bldg)
+(move jones_theater cbs)
+(move psychology_bldg bank)

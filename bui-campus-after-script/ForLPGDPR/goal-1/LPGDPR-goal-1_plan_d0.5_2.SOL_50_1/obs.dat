@@ -1,0 +1,3 @@
+(move watson_theater angazi_cafe)
+(move angazi_cafe hayman_theater)
+(move cbs hayman_theater)

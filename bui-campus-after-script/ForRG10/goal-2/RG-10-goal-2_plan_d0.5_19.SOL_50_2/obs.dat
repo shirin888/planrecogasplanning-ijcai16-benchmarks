@@ -1,0 +1,5 @@
+(move davis_theater library)
+(move library bank)
+(move bank davis_theater)
+(move watson_theater jones_theater)
+(move watson_theater hayman_theater)

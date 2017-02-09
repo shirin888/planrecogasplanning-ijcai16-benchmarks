@@ -1,0 +1,5 @@
+(occur_move bank tav)
+(occur_move tav psychology_bldg)
+(occur_move psychology_bldg davis_theater)
+(occur_move jones_theater hayman_theater)
+(occur_move library davis_theater)

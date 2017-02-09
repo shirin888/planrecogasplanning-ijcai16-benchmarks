@@ -1,0 +1,3 @@
+(occur_move davis_theater tav)
+(occur_move tav watson_theater)
+(occur_move bookmark_cafe angazi_cafe)

@@ -1,0 +1,3 @@
+(move davis_theater bank)
+(move watson_theater jones_theater)
+(move tav watson_theater)

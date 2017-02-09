@@ -1,0 +1,3 @@
+(occur_move library bank)
+(occur_move psychology_bldg davis_theater)
+(occur_move davis_theater hayman_theater)

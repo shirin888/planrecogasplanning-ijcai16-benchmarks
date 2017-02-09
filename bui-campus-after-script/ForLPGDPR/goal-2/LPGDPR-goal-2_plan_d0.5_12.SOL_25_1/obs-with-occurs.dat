@@ -1,0 +1,3 @@
+(occur_move tav jones_theater)
+(occur_move jones_theater psychology_bldg)
+(occur_move library psychology_bldg)

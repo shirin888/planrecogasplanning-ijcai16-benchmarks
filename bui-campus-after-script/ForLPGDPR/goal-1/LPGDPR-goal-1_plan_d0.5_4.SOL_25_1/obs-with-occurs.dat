@@ -1,0 +1,3 @@
+(occur_move hayman_theater jones_theater)
+(occur_move jones_theater cbs)
+(occur_move angazi_cafe library)

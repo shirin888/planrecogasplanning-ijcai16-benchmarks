@@ -1,0 +1,4 @@
+(occur_move bank library)
+(occur_move library davis_theater)
+(occur_move davis_theater watson_theater)
+(occur_move hayman_theater tav)

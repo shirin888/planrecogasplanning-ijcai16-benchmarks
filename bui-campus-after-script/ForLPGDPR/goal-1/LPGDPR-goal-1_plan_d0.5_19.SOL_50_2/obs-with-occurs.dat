@@ -1,0 +1,5 @@
+(occur_move watson_theater bookmark_cafe)
+(occur_move bookmark_cafe library)
+(occur_move davis_theater bookmark_cafe)
+(occur_move watson_theater tav)
+(occur_move angazi_cafe psychology_bldg)

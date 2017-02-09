@@ -1,0 +1,4 @@
+(occur_move davis_theater watson_theater)
+(occur_move tav hayman_theater)
+(occur_move jones_theater davis_theater)
+(occur_move psychology_bldg psychology_bldg)

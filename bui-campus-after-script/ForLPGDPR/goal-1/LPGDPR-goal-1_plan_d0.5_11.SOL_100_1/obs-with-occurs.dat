@@ -1,0 +1,8 @@
+(occur_move davis_theater jones_theater)
+(occur_move jones_theater bookmark_cafe)
+(occur_move bookmark_cafe watson_theater)
+(occur_move watson_theater hayman_theater)
+(occur_move hayman_theater bookmark_cafe)
+(occur_move bookmark_cafe library)
+(occur_move library tav)
+(occur_move bank tav)

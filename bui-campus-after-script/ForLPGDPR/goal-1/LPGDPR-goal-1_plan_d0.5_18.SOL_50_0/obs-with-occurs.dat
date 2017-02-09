@@ -1,0 +1,3 @@
+(occur_move bookmark_cafe hayman_theater)
+(occur_move hayman_theater bookmark_cafe)
+(occur_move bookmark_cafe tav)

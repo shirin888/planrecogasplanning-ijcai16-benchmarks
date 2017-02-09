@@ -1,0 +1,4 @@
+(occur_move tav watson_theater)
+(occur_move cbs tav)
+(occur_move tav bank)
+(occur_move watson_theater bank)

@@ -1,0 +1,5 @@
+(move angazi_cafe bank)
+(move bank cbs)
+(move cbs davis_theater)
+(move bookmark_cafe psychology_bldg)
+(move hayman_theater hayman_theater)

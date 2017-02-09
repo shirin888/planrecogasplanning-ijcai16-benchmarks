@@ -1,0 +1,8 @@
+(occur_move davis_theater bank)
+(occur_move bank cbs)
+(occur_move cbs davis_theater)
+(occur_move davis_theater tav)
+(occur_move tav jones_theater)
+(occur_move jones_theater psychology_bldg)
+(occur_move bookmark_cafe hayman_theater)
+(occur_move bank jones_theater)

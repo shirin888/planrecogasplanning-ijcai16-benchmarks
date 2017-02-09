@@ -1,0 +1,54 @@
+
+; Version LPG-td-1.0
+; Seed 120652952
+; Command line: ./../lpg -o domain.pddl_added_goal_actions.pddl -f template.pddl_added_goal_actions-goal-1.pddl -k_coefficient 20 -d_coefficient 0.5 -cputime 3600 -out plan_d0.5 
+; Problem: template.pddl_added_goal_actions-goal-1.pddl
+; Time: 0.94
+; Plan generation time: 0.00
+; Search time: 0.94
+; Parsing time: 0.00
+; Mutex time: 0.00
+; num. actions: 14
+; MetricValue: 14.00
+
+; Average Delta differences: 0.7330 
+; Delta diff. values : 
+;      Plan 0 vs Plan 47 -- delta4: 0.7619 , deltaA: 0.4286 ,  deltaB: 0.3333 
+;      Plan 1 vs Plan 47 -- delta4: 0.5294 , deltaA: 0.3529 ,  deltaB: 0.1765 
+;      Plan 2 vs Plan 47 -- delta4: 0.8000 , deltaA: 0.5000 ,  deltaB: 0.3000 
+;      Plan 8 vs Plan 47 -- delta4: 0.5789 , deltaA: 0.3158 ,  deltaB: 0.2632 
+;      Plan 9 vs Plan 47 -- delta4: 0.8182 , deltaA: 0.4545 ,  deltaB: 0.3636 
+;      Plan 12 vs Plan 47 -- delta4: 0.8750 , deltaA: 0.4583 ,  deltaB: 0.4167 
+;      Plan 14 vs Plan 47 -- delta4: 0.5000 , deltaA: 0.2778 ,  deltaB: 0.2222 
+;      Plan 25 vs Plan 47 -- delta4: 0.7500 , deltaA: 0.4500 ,  deltaB: 0.3000 
+;      Plan 28 vs Plan 47 -- delta4: 0.8182 , deltaA: 0.4545 ,  deltaB: 0.3636 
+;      Plan 29 vs Plan 47 -- delta4: 0.8696 , deltaA: 0.4783 ,  deltaB: 0.3913 
+;      Plan 35 vs Plan 47 -- delta4: 0.7500 , deltaA: 0.4500 ,  deltaB: 0.3000 
+;      Plan 45 vs Plan 47 -- delta4: 0.6500 , deltaA: 0.3500 ,  deltaB: 0.3000 
+;      Plan 52 vs Plan 47 -- delta4: 0.8095 , deltaA: 0.4762 ,  deltaB: 0.3333 
+;      Plan 53 vs Plan 47 -- delta4: 0.7500 , deltaA: 0.4500 ,  deltaB: 0.3000 
+;      Plan 55 vs Plan 47 -- delta4: 0.6316 , deltaA: 0.3684 ,  deltaB: 0.2632 
+;      Plan 58 vs Plan 47 -- delta4: 0.8095 , deltaA: 0.4762 ,  deltaB: 0.3333 
+;      Plan 60 vs Plan 47 -- delta4: 0.7500 , deltaA: 0.4500 ,  deltaB: 0.3000 
+;      Plan 62 vs Plan 47 -- delta4: 0.7000 , deltaA: 0.4000 ,  deltaB: 0.3000 
+;      Plan 65 vs Plan 47 -- delta4: 0.6316 , deltaA: 0.3684 ,  deltaB: 0.2632 
+;      Plan 66 vs Plan 47 -- delta4: 0.7619 , deltaA: 0.4286 ,  deltaB: 0.3333 
+;      Plan 71 vs Plan 47 -- delta4: 0.7619 , deltaA: 0.4286 ,  deltaB: 0.3333 
+;      Plan 72 vs Plan 47 -- delta4: 0.6316 , deltaA: 0.3684 ,  deltaB: 0.2632 
+
+
+ 0.0000: (MOVE DAVIS_THEATER WATSON_THEATER) [1.0000]
+ 1.0000: (ACTIVITY-TAKE-LECTURE-1) [1.0000]
+ 2.0000: (MOVE WATSON_THEATER BOOKMARK_CAFE) [1.0000]
+ 3.0000: (ACTIVITY-BREAKFAST) [1.0000]
+ 4.0000: (MOVE BOOKMARK_CAFE ANGAZI_CAFE) [1.0000]
+ 5.0000: (MOVE ANGAZI_CAFE BANK) [1.0000]
+ 6.0000: (MOVE BANK LIBRARY) [1.0000]
+ 7.0000: (ACTIVITY-GROUP-MEETING-1-2) [1.0000]
+ 8.0000: (MOVE LIBRARY WATSON_THEATER) [1.0000]
+ 9.0000: (MOVE WATSON_THEATER HAYMAN_THEATER) [1.0000]
+ 10.0000: (ACTIVITY-TAKE-LECTURE-2) [1.0000]
+ 11.0000: (MOVE HAYMAN_THEATER TAV) [1.0000]
+ 12.0000: (ACTIVITY-COFFEE-1) [1.0000]
+ 13.0000: (GOAL_BREAKFAST__LECTURE-1-TAKEN__GROUP-MEETING-1__LECTURE-2-TAKEN__COFFEE_) [1.0000]
+
