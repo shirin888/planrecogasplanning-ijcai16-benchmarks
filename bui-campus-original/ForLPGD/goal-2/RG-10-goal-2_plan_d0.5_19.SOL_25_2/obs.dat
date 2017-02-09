@@ -1,0 +1,4 @@
+(move davis_theater library)
+(move bank davis_theater)
+(move cbs tav)
+(move psychology_bldg angazi_cafe)

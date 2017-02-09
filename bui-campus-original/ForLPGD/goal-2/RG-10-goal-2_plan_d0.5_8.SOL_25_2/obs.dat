@@ -1,0 +1,4 @@
+(move davis_theater jones_theater)
+(move jones_theater psychology_bldg)
+(move davis_theater watson_theater)
+(move watson_theater hayman_theater)

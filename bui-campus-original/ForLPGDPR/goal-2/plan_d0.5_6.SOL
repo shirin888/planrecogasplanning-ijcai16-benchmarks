@@ -1,0 +1,50 @@
+
+; Version LPG-td-1.0
+; Seed 91830488
+; Command line: ./../lpg -o domain.pddl_added_goal_actions.pddl -f template.pddl_added_goal_actions-goal-2.pddl -k_coefficient 20 -d_coefficient 0.5 -cputime 3600 -out plan_d0.5 
+; Problem: template.pddl_added_goal_actions-goal-2.pddl
+; Time: 2.45
+; Plan generation time: 0.00
+; Search time: 2.45
+; Parsing time: 0.00
+; Mutex time: 0.00
+; num. actions: 13
+; MetricValue: 13.00
+
+; Average Delta differences: 0.6751 
+; Delta diff. values : 
+;      Plan 1 vs Plan 17 -- delta4: 0.5789 , deltaA: 0.2632 ,  deltaB: 0.3158 
+;      Plan 2 vs Plan 17 -- delta4: 0.6500 , deltaA: 0.3000 ,  deltaB: 0.3500 
+;      Plan 6 vs Plan 17 -- delta4: 0.7000 , deltaA: 0.3500 ,  deltaB: 0.3500 
+;      Plan 9 vs Plan 17 -- delta4: 0.7727 , deltaA: 0.3636 ,  deltaB: 0.4091 
+;      Plan 12 vs Plan 17 -- delta4: 0.5000 , deltaA: 0.2222 ,  deltaB: 0.2778 
+;      Plan 14 vs Plan 17 -- delta4: 0.6818 , deltaA: 0.2727 ,  deltaB: 0.4091 
+;      Plan 20 vs Plan 17 -- delta4: 0.5789 , deltaA: 0.2632 ,  deltaB: 0.3158 
+;      Plan 22 vs Plan 17 -- delta4: 0.7143 , deltaA: 0.3333 ,  deltaB: 0.3810 
+;      Plan 26 vs Plan 17 -- delta4: 0.6500 , deltaA: 0.3000 ,  deltaB: 0.3500 
+;      Plan 36 vs Plan 17 -- delta4: 0.5000 , deltaA: 0.2222 ,  deltaB: 0.2778 
+;      Plan 37 vs Plan 17 -- delta4: 0.6500 , deltaA: 0.3000 ,  deltaB: 0.3500 
+;      Plan 44 vs Plan 17 -- delta4: 0.7619 , deltaA: 0.3810 ,  deltaB: 0.3810 
+;      Plan 49 vs Plan 17 -- delta4: 0.6316 , deltaA: 0.3158 ,  deltaB: 0.3158 
+;      Plan 60 vs Plan 17 -- delta4: 0.5789 , deltaA: 0.2632 ,  deltaB: 0.3158 
+;      Plan 84 vs Plan 17 -- delta4: 0.7391 , deltaA: 0.3043 ,  deltaB: 0.4348 
+;      Plan 90 vs Plan 17 -- delta4: 0.7143 , deltaA: 0.3333 ,  deltaB: 0.3810 
+;      Plan 130 vs Plan 17 -- delta4: 0.6190 , deltaA: 0.2381 ,  deltaB: 0.3810 
+;      Plan 134 vs Plan 17 -- delta4: 0.7600 , deltaA: 0.2800 ,  deltaB: 0.4800 
+;      Plan 138 vs Plan 17 -- delta4: 0.7000 , deltaA: 0.3500 ,  deltaB: 0.3500 
+
+
+ 0.0000: (MOVE DAVIS_THEATER BANK) [1.0000]
+ 1.0000: (ACTIVITY-BANKING) [1.0000]
+ 2.0000: (MOVE BANK PSYCHOLOGY_BLDG) [1.0000]
+ 3.0000: (ACTIVITY-GROUP-MEETING-2-2) [1.0000]
+ 4.0000: (MOVE PSYCHOLOGY_BLDG DAVIS_THEATER) [1.0000]
+ 5.0000: (ACTIVITY-TAKE-LECTURE-3) [1.0000]
+ 6.0000: (MOVE DAVIS_THEATER JONES_THEATER) [1.0000]
+ 7.0000: (ACTIVITY-TAKE-LECTURE-4) [1.0000]
+ 8.0000: (MOVE JONES_THEATER ANGAZI_CAFE) [1.0000]
+ 9.0000: (ACTIVITY-GROUP-MEETING-3-1) [1.0000]
+ 10.0000: (MOVE ANGAZI_CAFE BOOKMARK_CAFE) [1.0000]
+ 11.0000: (ACTIVITY-LUNCH-2) [1.0000]
+ 12.0000: (GOAL_GROUP-MEETING-2__BANKING__LECTURE-3-TAKEN__LECTURE-4-TAKEN__GROUP-MEETING-3__LUNCH_) [1.0000]
+

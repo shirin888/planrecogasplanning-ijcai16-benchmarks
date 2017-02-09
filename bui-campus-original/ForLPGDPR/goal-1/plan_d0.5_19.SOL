@@ -1,0 +1,52 @@
+
+; Version LPG-td-1.0
+; Seed 120652952
+; Command line: ./../lpg -o domain.pddl_added_goal_actions.pddl -f template.pddl_added_goal_actions-goal-1.pddl -k_coefficient 20 -d_coefficient 0.5 -cputime 3600 -out plan_d0.5 
+; Problem: template.pddl_added_goal_actions-goal-1.pddl
+; Time: 0.94
+; Plan generation time: 0.00
+; Search time: 0.94
+; Parsing time: 0.00
+; Mutex time: 0.00
+; num. actions: 12
+; MetricValue: 12.00
+
+; Average Delta differences: 0.7330 
+; Delta diff. values : 
+;      Plan 0 vs Plan 65 -- delta4: 0.7368 , deltaA: 0.3684 ,  deltaB: 0.3684 
+;      Plan 1 vs Plan 65 -- delta4: 0.5625 , deltaA: 0.3125 ,  deltaB: 0.2500 
+;      Plan 2 vs Plan 65 -- delta4: 0.7059 , deltaA: 0.4118 ,  deltaB: 0.2941 
+;      Plan 8 vs Plan 65 -- delta4: 0.7500 , deltaA: 0.3500 ,  deltaB: 0.4000 
+;      Plan 9 vs Plan 65 -- delta4: 0.8000 , deltaA: 0.4000 ,  deltaB: 0.4000 
+;      Plan 12 vs Plan 65 -- delta4: 0.8636 , deltaA: 0.4091 ,  deltaB: 0.4545 
+;      Plan 14 vs Plan 65 -- delta4: 0.6111 , deltaA: 0.2778 ,  deltaB: 0.3333 
+;      Plan 25 vs Plan 65 -- delta4: 0.8500 , deltaA: 0.4500 ,  deltaB: 0.4000 
+;      Plan 28 vs Plan 65 -- delta4: 0.8000 , deltaA: 0.4000 ,  deltaB: 0.4000 
+;      Plan 29 vs Plan 65 -- delta4: 0.8571 , deltaA: 0.4286 ,  deltaB: 0.4286 
+;      Plan 35 vs Plan 65 -- delta4: 0.6471 , deltaA: 0.3529 ,  deltaB: 0.2941 
+;      Plan 45 vs Plan 65 -- delta4: 0.6842 , deltaA: 0.3158 ,  deltaB: 0.3684 
+;      Plan 47 vs Plan 65 -- delta4: 0.6316 , deltaA: 0.2632 ,  deltaB: 0.3684 
+;      Plan 52 vs Plan 65 -- delta4: 0.7222 , deltaA: 0.3889 ,  deltaB: 0.3333 
+;      Plan 53 vs Plan 65 -- delta4: 0.6471 , deltaA: 0.3529 ,  deltaB: 0.2941 
+;      Plan 55 vs Plan 65 -- delta4: 0.8000 , deltaA: 0.4000 ,  deltaB: 0.4000 
+;      Plan 58 vs Plan 65 -- delta4: 0.7895 , deltaA: 0.4211 ,  deltaB: 0.3684 
+;      Plan 60 vs Plan 65 -- delta4: 0.7222 , deltaA: 0.3889 ,  deltaB: 0.3333 
+;      Plan 62 vs Plan 65 -- delta4: 0.7368 , deltaA: 0.3684 ,  deltaB: 0.3684 
+;      Plan 66 vs Plan 65 -- delta4: 0.6667 , deltaA: 0.3333 ,  deltaB: 0.3333 
+;      Plan 71 vs Plan 65 -- delta4: 0.6667 , deltaA: 0.3333 ,  deltaB: 0.3333 
+;      Plan 72 vs Plan 65 -- delta4: 0.6667 , deltaA: 0.3333 ,  deltaB: 0.3333 
+
+
+ 0.0000: (MOVE DAVIS_THEATER WATSON_THEATER) [1.0000]
+ 1.0000: (ACTIVITY-TAKE-LECTURE-1) [1.0000]
+ 2.0000: (MOVE WATSON_THEATER BOOKMARK_CAFE) [1.0000]
+ 3.0000: (ACTIVITY-BREAKFAST) [1.0000]
+ 4.0000: (MOVE BOOKMARK_CAFE LIBRARY) [1.0000]
+ 5.0000: (ACTIVITY-GROUP-MEETING-1-2) [1.0000]
+ 6.0000: (MOVE LIBRARY HAYMAN_THEATER) [1.0000]
+ 7.0000: (ACTIVITY-TAKE-LECTURE-2) [1.0000]
+ 8.0000: (MOVE HAYMAN_THEATER DAVIS_THEATER) [1.0000]
+ 9.0000: (MOVE DAVIS_THEATER BOOKMARK_CAFE) [1.0000]
+ 10.0000: (ACTIVITY-COFFEE-3) [1.0000]
+ 11.0000: (GOAL_BREAKFAST__LECTURE-1-TAKEN__GROUP-MEETING-1__LECTURE-2-TAKEN__COFFEE_) [1.0000]
+

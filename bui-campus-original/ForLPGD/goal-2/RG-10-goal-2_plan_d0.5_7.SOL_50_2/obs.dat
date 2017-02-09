@@ -1,0 +1,6 @@
+(move bank tav)
+(move tav psychology_bldg)
+(move psychology_bldg davis_theater)
+(move hayman_theater psychology_bldg)
+(move cbs library)
+(move tav bookmark_cafe)

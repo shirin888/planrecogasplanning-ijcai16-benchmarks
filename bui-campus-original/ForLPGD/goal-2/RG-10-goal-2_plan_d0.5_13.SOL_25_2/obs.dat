@@ -1,0 +1,4 @@
+(move psychology_bldg bank)
+(move jones_theater bookmark_cafe)
+(move tav psychology_bldg)
+(move bookmark_cafe bank)

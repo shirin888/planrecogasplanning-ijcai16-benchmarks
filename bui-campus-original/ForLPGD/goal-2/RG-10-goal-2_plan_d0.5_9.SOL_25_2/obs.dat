@@ -1,0 +1,4 @@
+(move davis_theater tav)
+(move bank cbs)
+(move library jones_theater)
+(move cbs bank)

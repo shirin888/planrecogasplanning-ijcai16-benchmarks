@@ -1,0 +1,4 @@
+(move jones_theater tav)
+(move tav psychology_bldg)
+(move psychology_bldg bank)
+(move library angazi_cafe)
